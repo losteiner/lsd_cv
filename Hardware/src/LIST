@@ -1,0 +1,20 @@
+# A list of all HDL project sources relative to the source directory.
+#
+# This file must be kept up-to-date. It is used when creating the project
+# hierarchy and when building the project.
+
+### Top-level
+Top.sv
+
+### OV7670
+driver/ov7670/camera_configure.sv
+driver/ov7670/camera_read.sv
+driver/ov7670/OV7670_config.sv
+driver/ov7670/OV7670_config_rom.sv
+driver/ov7670/SCCB_interface.sv
+
+# tft output
+driver/tft_ili9341/tft_ili9341.sv
+driver/tft_ili9341/tft_ili9341_spi.sv
+driver/tft_ili9341/pll.qip
+

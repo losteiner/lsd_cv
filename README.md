@@ -31,7 +31,10 @@ Check out these links for more sophisticated solutions.
 - Build environment scripts: https://github.com/grantae/mips32r1_soc_nano
 
 ## Demo:
-https://www.youtube.com/watch?v=qPlGpQFgjh4
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qPlGpQFgjh4
+" target="_blank"><img src="http://img.youtube.com/vi/qPlGpQFgjh4/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
 
 ##TODO:
 

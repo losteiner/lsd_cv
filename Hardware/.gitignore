@@ -1,0 +1,7 @@
+# Hardware related gitignore
+
+# proj directory is generated
+proj/
+
+# Quartus backup files
+*.bak
